@@ -1,0 +1,17 @@
+
+
+cd c:
+cd Git
+cd teste
+
+git config --global user.name "alvesjmatos"
+git config --global user.email "alvesjmatos@gmail.com"
+git clone https://github.com/alvesjmatos/teste
+
+
+git add sql-server.sql
+
+git commit -m "Esse foi o primeiro commit desse arquivo" sql-server.sql
+
+
+status
